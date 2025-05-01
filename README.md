@@ -15,3 +15,4 @@
 ##### Tugas 4 - Membuat Aplikasi Dice Roller Interaktif
 ##### Tugas 5 - Membuat Aplikasi Kalkulator dengan menggunakan Kotlin
 ##### Tugas 6 - Membuat Aplikasi Kalkulator Konversi Mata Uang 
+##### Tugas 7 - Membuat Aplikasi Login Page Sederhana
