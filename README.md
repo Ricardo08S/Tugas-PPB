@@ -18,3 +18,4 @@
 ##### Tugas 7 - Membuat Aplikasi Login Page Sederhana
 ##### Tugas 8 - Membuat Aplikasi Woof
 ##### Tugas 9 - Membuat Aplikasi Dessert Clicker
+##### Tugas 10 - Membuat Aplikasi Unscramble Word App
