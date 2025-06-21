@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name_title">Woof</string>
+    <string name="app_name">WoofApp</string>
+
+    <string name="dog_name_koda">Koda</string>
+    <string name="dog_name_lola">Lola</string>
+    <string name="dog_name_frankie">Frankie</string>
+    <string name="dog_name_nox">Nox</string>
+    <string name="dog_name_faye">Faye</string>
+    <string name="dog_name_bella">Bella</string>
+    <string name="dog_name_moana">Moana</string>
+    <string name="dog_name_tzeitel">Tzeitel</string>
+
+    <string name="dog_desc_koda">Koda loves to play fetch and chase squirrels.</string>
+    <string name="dog_desc_lola">Lola is a sweet and gentle senior dog who loves naps.</string>
+    <string name="dog_desc_frankie">Frankie is a playful pup with lots of energy.</string>
+    <string name="dog_desc_nox">Nox is a loyal companion who enjoys long walks.</string>
+    <string name="dog_desc_faye">Faye is a curious and adventurous dog.</string>
+    <string name="dog_desc_bella">Bella is a calm and loving dog, great with kids.</string>
+    <string name="dog_desc_moana">Moana is a spirited young dog always ready for an adventure.</string>
+    <string name="dog_desc_tzeitel">Tzeitel is a friendly and intelligent dog.</string>
+
+    <string name="years_old">%1$d years old</string>
+    <string name="about">About</string>
+    <string name="expand_button_content_description">Show more information about the dog.</string>
+</resources>
