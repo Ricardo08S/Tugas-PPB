@@ -2,8 +2,8 @@ package com.newsapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val GreenPrimary = Color(0xFF2E7D32)
-val LightGreenBackground = Color(0xFFF1F8E9)
-val WhiteSurface = Color.White
-val DarkText = Color(0xFF1B1B1B)
-val SecondaryText = Color(0xFF555555)
+val StarbucksGreen = Color(0xFF006241)
+val DarkGreen = Color(0xFF004D33)
+val AccentGreen = Color(0xFFD4E9E2)
+val LightGray = Color(0xFFF2F2F2)
+val DarkGray = Color(0xFF888888)
