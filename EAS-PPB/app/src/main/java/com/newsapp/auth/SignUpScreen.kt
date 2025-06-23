@@ -31,8 +31,9 @@ fun SignUpScreen(
         when (val state = authState) {
             is AuthState.Success -> {
                 Toast.makeText(context, "Sign Up Successful!", Toast.LENGTH_SHORT).show()
-                navController.navigate(Screen.HomeScreen.route) {
-                    popUpTo(Screen.LoginScreen.route) { inclusive = true }
+                authViewModel.logoutUser()
+                navController.navigate(Screen.LoginScreen.route) {
+                    popUpTo(Screen.SignUpScreen.route) { inclusive = true }
                 }
                 authViewModel.resetAuthState()
             }
